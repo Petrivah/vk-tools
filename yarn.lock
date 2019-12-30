@@ -1420,6 +1420,11 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
+"@vkontakte/vkui@^3.0.0-alpha.3":
+  version "3.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@vkontakte/vkui/-/vkui-3.0.0-alpha.3.tgz#472ce9d45935cabc7ea708741d3e7127710ad906"
+  integrity sha512-wJSASqye51Wh5Iw/HcOWWA3NCaLhIt7x6aPY1oHwDtOlfHCFi0xhJ5tqX5d0NBNCO3X7RGFCaaRzohHou1F5Rw==
+
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.8.5.tgz#51b1c5fe6576a34953bf4b253df9f0d490d9e359"
